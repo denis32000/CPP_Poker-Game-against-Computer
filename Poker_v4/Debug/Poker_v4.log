@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Poker_v4.cpp
+c:\users\denis32\desktop\poker_shvetsov_denis_fit_1\poker_v4\poker_v4\poker_v4\poker_v4.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Game.cpp
+  Deck.cpp
+  Const.cpp
+  Card.cpp
+  Generating Code...
+  Poker_v4.vcxproj -> C:\Users\Denis32\Desktop\Poker_Shvetsov_Denis_FIT_1\Poker_v4\Poker_v4\Debug\Poker_v4.exe
+  Poker_v4.vcxproj -> C:\Users\Denis32\Desktop\Poker_Shvetsov_Denis_FIT_1\Poker_v4\Poker_v4\Debug\Poker_v4.pdb (Partial PDB)
